@@ -1,0 +1,106 @@
+.navbar_menu{
+    list-style: none;
+    display: flex;
+    margin-right: 100px; 
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 100;
+}
+.navbar_menu_item{
+    margin: 20px;
+    font-weight: lighter;
+    font-size: 20px;   
+}
+.quote_but{
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-left: 90px;
+}
+.logo{
+    display: flex;
+    color: white;
+}
+#header{
+    display: flex;
+    align-items: center;
+    min-height: 70px;
+}
+.first_page{
+    height: 100vh;
+    background-color: #212529
+}
+.first_page_text_div{
+    width: 600px;
+    margin-left: 80px;
+}
+.for_i{
+    color: white; 
+    right: 40px;
+}
+.container{
+    width: 1200px;
+    margin: 0 30px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.span_business{
+    margin: 8px;
+}
+.word{
+    color: white;
+    font-size: 25px;
+    display: flex;
+}
+.sentences{
+    font-size: 18px;
+    font-weight: 100;  
+}
+.start_but{
+    
+    letter-spacing: 1px;
+    font-size:medium;
+    margin-top: 50px;
+    color:white;
+    background-color: red;
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+}
+.main_image{
+    object-fit: cover;
+    box-sizing: border-box;
+    display: flex;
+    right: 200px;
+    top: 200px;
+}
+
+
+
+.second_section{
+    background-color: white;
+}
+.head_div{
+    text-align: center;
+}
+.service{
+    color: red;
+}
+.three_box{
+    display: flex;
+    margin: 40px;
+}
+.icons{
+    padding: 20px;
+    font-size: 50px;
+    border: 1px solid white;
+    border-radius: 20px;
+    
+}
